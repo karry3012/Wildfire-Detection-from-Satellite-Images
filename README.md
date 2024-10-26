@@ -1,6 +1,4 @@
 # Wildfire-Detection-from-Satellite-Images
-
-
 This project leverages Convolutional Neural Networks (CNN) to detect wildfires from satellite images. By analyzing these images, the model predicts whether a given image shows a wildfire or not, using a web interface built with Streamlit. This tool is aimed at helping authorities detect wildfires early and monitor their spread, providing crucial information for timely responses.
 
 Project Overview
