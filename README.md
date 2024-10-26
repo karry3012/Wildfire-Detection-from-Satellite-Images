@@ -1,0 +1,1 @@
+# Wildfire-Detection-from-Satellite-Images
